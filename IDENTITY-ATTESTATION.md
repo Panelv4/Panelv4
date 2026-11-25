@@ -26,6 +26,8 @@ state that:
          (co-reporter: w116tjb)
 
   5. I am also the account behind https://hackerone.com/vibecoder.
+     The GitHub handle "Panelv4" and the HackerOne handle "vibecoder"
+     both refer to me, Dhairya Sharma: Panelv4 = vibecoder = Dhairya Sharma.
   6. Requests to render my credit as "Dhairya Sharma (Panelv4)" in
      CVE Records and GitHub Security Advisories originate from me.
      The existing "Panelv4" credit should be retained for continuity,
@@ -36,13 +38,15 @@ Verification anchors (all controlled by the same GitHub account):
   • https://github.com/Panelv4                     (display name: Dhairya Sharma)
   • https://github.com/Panelv4/Panelv4             (profile README)
   • https://github.com/Panelv4/CVE-Research-Dhairya-Sharma
-  • https://panelv4.github.io                      (portfolio, JSON-LD Person)
+  • https://github.com/Panelv4/Panelv4/blob/main/ALIASES.md   (alias resolution)
+  • https://github.com/Panelv4/CVE-Research-Dhairya-Sharma/blob/main/FINDINGS.md
+  • https://panelv4.github.io/DhairyaSharma/       (portfolio, JSON-LD Person)
   • This file's commit SHA: ______________________ (fill in after commit)
 
 Contact for verification: dhairyasharma7101@gmail.com
 
 Signed,
-Dhairya Sharma  /  @Panelv4
+Dhairya Sharma  /  @Panelv4  /  vibecoder
 ```
 
 ---
