@@ -5,19 +5,23 @@
 
   [`github.com/Panelv4`](https://github.com/Panelv4) &nbsp;·&nbsp;
   [`hackerone.com/vibecoder`](https://hackerone.com/vibecoder) &nbsp;·&nbsp;
-  [`panelv4.github.io`](https://panelv4.github.io) &nbsp;·&nbsp;
+  [`panelv4.github.io/DhairyaSharma`](https://panelv4.github.io/DhairyaSharma/) &nbsp;·&nbsp;
   [`dhairyasharma7101@gmail.com`](mailto:dhairyasharma7101@gmail.com)
 
   <br />
 
-  <sub><b>Dhairya Sharma</b> · <code>@Panelv4</code> · Gwalior, Madhya Pradesh, India</sub>
+  <sub><b>Dhairya Sharma</b> · <code>@Panelv4</code> · <code>vibecoder</code> (HackerOne) · Gwalior, Madhya Pradesh, India</sub>
+
+  <br />
+
+  <sub>[`ALIASES.md`](ALIASES.md) &nbsp;·&nbsp; [`FINDINGS.md`](FINDINGS.md) &nbsp;·&nbsp; [`IDENTITY-ATTESTATION.md`](IDENTITY-ATTESTATION.md)</sub>
 </div>
 
 ---
 
 ```text
 $ whoami
-Dhairya Sharma  →  github.com/Panelv4  →  reporter on 3 public CVEs
+Dhairya Sharma  →  Panelv4 (GitHub)  →  vibecoder (HackerOne)  →  reporter on 3 public CVEs
 
 $ cat focus.txt
 AI-assisted product building  ·  deterministic systems  ·  application security
@@ -28,15 +32,23 @@ $ echo $STATUS
 open to AI-assisted product building, technical generalist work & AppSec research
 ```
 
-## 🔎 Name ↔ CVE attribution
+## 🔎 Name ↔ handle ↔ CVE attribution
 
-> **The three public CVE records below list the reporter as `Panelv4`. `Panelv4` is me — Dhairya Sharma.**
+> **The three public CVE records below list the reporter as `Panelv4`. `Panelv4` is me — Dhairya Sharma. My HackerOne handle `vibecoder` is also me.**
+>
+> | Identifier | Platform | Belongs to |
+> | --- | --- | --- |
+> | `Dhairya Sharma` | real name | **Dhairya Sharma** |
+> | `Panelv4` | GitHub | **Dhairya Sharma** |
+> | `vibecoder` | HackerOne | **Dhairya Sharma** |
+>
+> **`Panelv4` = `vibecoder` = Dhairya Sharma.** In plain text for crawlers: Dhairya Sharma is also known as Panelv4 on GitHub and vibecoder on HackerOne; both accounts are owned by Dhairya Sharma. Full mapping: [`ALIASES.md`](ALIASES.md).
 >
 > | If you searched for | The reporter is |
 > | --- | --- |
-> | `CVE-2026-120213` | **Dhairya Sharma** (GitHub: `Panelv4`) |
-> | `CVE-2026-117518` | **Dhairya Sharma** (GitHub: `Panelv4`) |
-> | `CVE-2026-116592` | **Dhairya Sharma** (GitHub: `Panelv4`) |
+> | `CVE-2026-120213` | **Dhairya Sharma** (GitHub: `Panelv4` · HackerOne: `vibecoder`) |
+> | `CVE-2026-117518` | **Dhairya Sharma** (GitHub: `Panelv4` · HackerOne: `vibecoder`) |
+> | `CVE-2026-116592` | **Dhairya Sharma** (GitHub: `Panelv4` · HackerOne: `vibecoder`) |
 >
 > Full technical write-ups and credit links: [`Panelv4/CVE-Research-Dhairya-Sharma`](https://github.com/Panelv4/CVE-Research-Dhairya-Sharma)
 
@@ -84,6 +96,28 @@ With an **originless `Agent`**, a **shared cache**, and interceptors composed as
 - **Sources:** [GHSA-mqg3-3v4r-cm32](https://github.com/nodejs/undici/security/advisories/GHSA-mqg3-3v4r-cm32) · [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-116592) · [OpenJS CNA](https://cna.openjsf.org/security-advisories.html)
 
 > **Disclosure integrity:** only these three public advisories are claimed as CVEs. Private coordinated-disclosure reports and self-deployed lab observations are deliberately not described here, and no private reproduction steps, endpoints or evidence are published. Lab observations are not presented as vendor-confirmed vulnerabilities. See the [attribution & correction request](https://github.com/Panelv4/CVE-Research-Dhairya-Sharma#credit-correction) if you maintain one of these records.
+
+---
+
+## 📑 Findings list — links that name Dhairya Sharma on GitHub
+
+Every link below is a **GitHub page whose title and first line name Dhairya Sharma** as the reporter, so searching any finding ID lands on a GitHub result carrying the real name rather than only the handle.
+
+| Finding | GitHub write-up (link text = Dhairya Sharma) | Official record |
+| --- | --- | --- |
+| `CVE-2026-120213` | [**Dhairya Sharma — CVE-2026-120213 write-up**](https://github.com/Panelv4/CVE-Research-Dhairya-Sharma/blob/main/cves/CVE-2026-120213.md) | [GHSA-h3vp-4jfr-v364](https://github.com/fastify/fastify-http-proxy/security/advisories/GHSA-h3vp-4jfr-v364) · [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-120213) |
+| `CVE-2026-117518` | [**Dhairya Sharma — CVE-2026-117518 write-up**](https://github.com/Panelv4/CVE-Research-Dhairya-Sharma/blob/main/cves/CVE-2026-117518.md) | [GHSA-vp2r-3vgv-32g9](https://github.com/fastify/fastify-reply-from/security/advisories/GHSA-vp2r-3vgv-32g9) · [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-117518) |
+| `CVE-2026-116592` | [**Dhairya Sharma — CVE-2026-116592 write-up**](https://github.com/Panelv4/CVE-Research-Dhairya-Sharma/blob/main/cves/CVE-2026-116592.md) | [GHSA-mqg3-3v4r-cm32](https://github.com/nodejs/undici/security/advisories/GHSA-mqg3-3v4r-cm32) · [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-116592) |
+
+| Name / handle link | Destination |
+| --- | --- |
+| [**Dhairya Sharma = Panelv4 = vibecoder**](https://github.com/Panelv4/Panelv4/blob/main/ALIASES.md) | Alias resolution file |
+| [**Dhairya Sharma — findings index**](https://github.com/Panelv4/CVE-Research-Dhairya-Sharma/blob/main/FINDINGS.md) | `FINDINGS.md` |
+| [**Dhairya Sharma (Panelv4)**](https://github.com/Panelv4) | GitHub profile, display name |
+| [**Dhairya Sharma (vibecoder)**](https://hackerone.com/vibecoder) | HackerOne profile |
+| [**Dhairya Sharma — identity attestation**](https://github.com/Panelv4/Panelv4/blob/main/IDENTITY-ATTESTATION.md) | Signed statement from `@Panelv4` |
+
+> Private coordinated-disclosure reports, self-deployed lab observations and review items are **not** linked here: no reproduction steps, endpoints, screenshots or confidential evidence are published, and they are not claimed as CVEs.
 
 ---
 
@@ -162,7 +196,7 @@ A production-style Flask + SQLite practice website with a fully custom responsiv
 
 ## 📬 Contact
 
-**Dhairya Sharma** · Gwalior, Madhya Pradesh, India · [`@Panelv4`](https://github.com/Panelv4) · [HackerOne](https://hackerone.com/vibecoder) · [dhairyasharma7101@gmail.com](mailto:dhairyasharma7101@gmail.com)
+**Dhairya Sharma** (a.k.a. `Panelv4` / `vibecoder`) · Gwalior, Madhya Pradesh, India · [`@Panelv4`](https://github.com/Panelv4) · [`vibecoder` on HackerOne](https://hackerone.com/vibecoder) · [`DhairyaSharma` site](https://panelv4.github.io/DhairyaSharma/) · [dhairyasharma7101@gmail.com](mailto:dhairyasharma7101@gmail.com)
 
 Interested in **AI-assisted product building, technical generalist work, and application-security research** inside an existing product or engineering team.
 
@@ -171,5 +205,5 @@ Interested in **AI-assisted product building, technical generalist work, and app
 ---
 
 <div align="center">
-  <sub>🧪 <b>Build · Break · Document · Disclose responsibly</b> &nbsp;·&nbsp; 3 public CVEs &nbsp;·&nbsp; 12 public repositories</sub>
+  <sub>🧪 <b>Build · Break · Document · Disclose responsibly</b> &nbsp;·&nbsp; 3 public CVEs &nbsp;·&nbsp; 12 public repositories &nbsp;·&nbsp; <code>Panelv4 = vibecoder = Dhairya Sharma</code></sub>
 </div>
